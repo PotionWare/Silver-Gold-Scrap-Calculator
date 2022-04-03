@@ -10,7 +10,7 @@
  *
  */	
 
-function dl_r($filename, $remote_url = 'http://www.ramiismail.com/kit/press/' ) {
+function dl_r($filename, $remote_url = 'https://silver-and-gold-scrap-calculator.com/press/' ) {
 	$remote_url .=  $filename;
 	$local_file = $filename;
 	
