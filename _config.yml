@@ -13,7 +13,7 @@ presskit_download_link                    : https://www.canva.com/design/DAE8yeS
 app_icon                                  : #                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : silver and gold scrap calculator is a mobile app designed to appraise silver and gold bullion melt values. 
+app_description                           : Calculate melt values of silver coins, gold bullion, and more. 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,16 +35,12 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Find melt prices for silver, gold and more!
-    description                           : Using current market prices, appraise silver, gold, platinum, and palladium scrap items with just a few button presses.
+  - title                                 : Find melt prices for silver coins, gold bullion, and more!
+    description                           : Using current bullion market prices, find melt values for silver coins, gold scrap, damaged platinum jewelery, and palladium bullion with just a few button presses.
     fontawesome_icon_name                 : magic
-    
-  - title                                 : Compatible with Android and iOS!
-    description                           : This app is available on both Google Play and the Apple App Store.
-    fontawesome_icon_name                 : mobile
 
   - title                                 : Multiple base currencies available
-    description                           : Appraise your items in USD, GBP, CAD, and EUR.
+    description                           : Appraise your bullion scrap in USD, GBP, CAD, and EUR.
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Use for free or pay to unlock more
